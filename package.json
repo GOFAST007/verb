@@ -45,7 +45,7 @@
     "@rocket/cli": "^0.21.0",
     "@rocket/core": "^0.1.2",
     "@rocket/launch": "^0.21.3",
-    "@rocket/search": "^0.6.0"
+    "@rocket/search": "^0.7.0"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.1",
