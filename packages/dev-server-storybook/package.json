@@ -75,7 +75,7 @@
     "storybook-addon-markdown-docs": "^2.0.0"
   },
   "devDependencies": {
-    "@types/path-is-inside": "^1.0.0",
+    "@types/path-is-inside": "^1.0.3",
     "@web/dev-server": "^0.4.0",
     "htm": "^3.1.0"
   }
