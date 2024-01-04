@@ -57,7 +57,7 @@
     "@babel/plugin-syntax-import-meta": "^7.10.4",
     "@babel/plugin-syntax-numeric-separator": "^7.10.4",
     "@babel/plugin-transform-modules-systemjs": "^7.23.3",
-    "@babel/plugin-transform-template-literals": "^7.12.1",
+    "@babel/plugin-transform-template-literals": "^7.23.3",
     "@babel/preset-env": "^7.12.11",
     "@web/dev-server-core": "^0.7.0",
     "@web/polyfills-loader": "^2.2.0",
