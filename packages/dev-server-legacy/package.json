@@ -58,7 +58,7 @@
     "@babel/plugin-syntax-numeric-separator": "^7.10.4",
     "@babel/plugin-transform-modules-systemjs": "^7.23.3",
     "@babel/plugin-transform-template-literals": "^7.12.1",
-    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-env": "^7.23.7",
     "@web/dev-server-core": "^0.7.0",
     "@web/polyfills-loader": "^2.2.0",
     "browserslist": "^4.16.0",
@@ -71,6 +71,6 @@
     "@types/browserslist": "^4.8.0",
     "@types/browserslist-useragent": "^3.0.7",
     "@types/caniuse-api": "^3.0.1",
-    "@types/valid-url": "^1.0.3"
+    "@types/valid-url": "^1.0.7"
   }
 }
