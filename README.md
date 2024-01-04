@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    width="60%"
+    width="60%" 
     src="./assets/logo.png"
     alt="Modern Web"
   />
