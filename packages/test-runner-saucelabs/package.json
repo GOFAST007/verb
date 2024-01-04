@@ -50,7 +50,7 @@
     "ip": "^1.1.5",
     "nanoid": "^3.1.25",
     "saucelabs": "^7.2.0",
-    "webdriver": "^8.8.6",
+    "webdriver": "^8.27.0",
     "webdriverio": "^8.8.6"
   },
   "devDependencies": {
