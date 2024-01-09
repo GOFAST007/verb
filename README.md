@@ -1,4 +1,5 @@
 #
+[![learn-github-actions](https://github.com/ayatweb/ayatweb/actions/workflows/env.yml/badge.svg)](https://github.com/ayatweb/ayatweb/actions/workflows/env.yml)
 <p align="center">
   <img
     width="60%" 
