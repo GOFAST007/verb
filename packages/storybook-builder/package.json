@@ -65,7 +65,7 @@
     "glob-promise": "^6.0.3",
     "lodash-es": "^4.17.21",
     "path-browserify": "^1.0.1",
-    "rollup": "^4.9.2",
+    "rollup": "^4.9.4",
     "rollup-plugin-external-globals": "^0.9.1",
     "slash": "^5.1.0"
   },
